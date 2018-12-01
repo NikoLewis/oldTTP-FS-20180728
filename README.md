@@ -1,6 +1,21 @@
 # stock_portfolio_app
 
-web  based  stock  portfolio  app, for the  purpose  of  this  exercise  a  stock  is  simply  an  asset  that  can  be  bought  or  sold(like  a  house)  at  a  price  that  continuously  rises  and  falls  throughout  the  day.  Up  todate  pricing  information  willbe provided IEX  API.  A  guide  to  the  UI  can  beobserved  below.  Your  implementation  doesn’t  need  to  be  an  exact  match  but  shouldimplement  all  of  the  listed  user  stories.  In  addition  to  the  user  stories,  yoursubmission  will  be  assessed  for  readability,  code  organization,  commit  historyclarity,  overall  UI/UX,    and  overall  API  design
+web  based  stock  portfolio  app, for the  purpose  of  this  exercise  a  stock  is  simply  an  asset  that  can  be  bought  or  sold(like  a  house)  at  a  price  that  continuously  rises  and  falls  throughout  the  day.  Up  todate  pricing  information  willbe provided IEX  API.  A  guide  to  the  UI  can  beobserved  below.  Your  implementation  doesn’t  need  to  be  an  exact  match  but  shouldimplement  all  of  the  listed  user  stories.  In  addition  to  the  user  stories,  yoursubmission  will  be  assessed  for  readability,  code  organization,  commit  historyclarity,  overall  UI/UX,    and  overall  API  design.
+
+##Heroku Deployment
+
+
+##How to Run App Locally
+
+
+##Technologies Used
+JavaScript
+React.js
+React Router
+Psql
+Axios
+Express
+Flexbox
 
 ## Wire Frame:
 
